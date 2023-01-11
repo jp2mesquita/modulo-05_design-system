@@ -1,4 +1,4 @@
 {
-  "extends": "@ignite-ui/ts/react.json",
+  "extends": "@jp2mesquita-ignite-ui/ts/react.json",
   "include": ["src"]
 }
